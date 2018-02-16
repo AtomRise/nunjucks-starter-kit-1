@@ -1,0 +1,14 @@
+{
+  "env": {
+    "browser": true
+  },
+  "extends": "airbnb-base",
+  "root": true,
+  "rules": {
+    "object-curly-spacing": ["error", "never"],
+    "no-console": "off",
+    "no-plusplus": "off",
+    "no-case-declarations": "off",
+    "no-unused-vars": "warn"
+  }
+}
